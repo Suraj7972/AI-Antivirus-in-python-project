@@ -1,8 +1,10 @@
-Adganced AI Virus Scanner
+Advanced AI Virus Scanner
 
 Description:
 
 This desktop application empowers you to scan your system for potential threats by uploading files, scanning entire drives, or pasting links. It leverages the power of the VirusTotal API, which incorporates over 60 antivirus engines, to provide comprehensive scan results.
+![Screenshot 2024-11-09 105433](https://github.com/user-attachments/assets/ca07ac3c-18df-4e15-80fa-cb239957be05)
+
 
 Features:
 
@@ -11,6 +13,8 @@ Scan specific drives for viruses. [*] (Feature not yet implemented)
 Paste links for scanning. 
 Analyze scan results, including scan date, total scans, positives detected, and detailed results from each antivirus engine used by VirusTotal.
 Clear output window to start fresh scans.
+![Screenshot 2024-11-09 105144](https://github.com/user-attachments/assets/fa835b89-efd8-4158-a68e-eebc4d507e75)
+
 Installation:
 
 While this is a Python script, users will need to have Python 3 and the PySimpleGUI library installed. You can install PySimpleGUI using pip:
